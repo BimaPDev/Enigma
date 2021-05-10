@@ -8,6 +8,8 @@ Due to React-Native Framework Enigma is able to work for both of the most popula
 
 ## Installation
 First download Node.JS which could be found in https://nodejs.org/en/
+```bash
+```
 Then download the React-Native Framework
 ```bash
 npm install -g expo-cli
