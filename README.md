@@ -7,7 +7,8 @@ Enigma is a simple To Do App that allows the user to create and orgenize their t
 Due to React-Native Framework Enigma is able to work for both of the most popular leading phone tech company Iphone and Android phones.
 
 ## Installation
-First download the React-Native Framework
+First download Node.JS which could be found in https://nodejs.org/en/
+Then download the React-Native Framework
 ```bash
 npm install -g expo-cli
 ```
@@ -17,7 +18,7 @@ npm install @react-navigation/native react-native-gesture-handler react-native-r
 ```
 Then Start the project by entering the Folder and typing 
 ```bash
-npm 
+npm start
 ```
 
 ## Author
